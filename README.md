@@ -2,7 +2,7 @@
 - 👨‍🎓 Student of computer science in DHA Suffa University
 - 👀 I’m interested in working with web
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate with hightech companies for their solutions
+- 💞️ I’m looking to collaborate with tech giants for their solutions
 - 📫 How to reach me nooralib180@gmail.com
 
 <!---

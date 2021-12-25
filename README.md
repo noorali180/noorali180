@@ -9,18 +9,8 @@
 - 💞️ I’m looking to collaborate with tech giants for their solutions
 - 📫 How to reach me nooralib180@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAli-180&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAli-180&show_icons=true)
-
-<br/>
-<br/>
-
-![Noor Ali's Activity Grap](https://activity-graph.herokuapp.com/graph?username=NoorAli-180&bg_color=ffffff&color=000000&line=5BCDEC&point=000000&display_border=true)
-
-<br/>
-<br/>
-
+<br>
+<br>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
@@ -36,12 +26,27 @@
   <a href="#" target="_blank" rel="noreferrer" title="illustrator" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer" title="photoshop" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
-  ## Connect with me:
+ <br>
+ <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAli-180&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAli-180&show_icons=true)
+
+## Connect with me:
 <p align="left">
 
   <a href="https://www.linkedin.com/in/noor-ali-43349521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello" height="20" width="30" /></a>
   <a href="https://twitter.com/Noor_Ali_180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="20" width="30" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009323056018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hello" height="20" width="30" /></a>
+  
+<br>
+  
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NoorAli-180">
+</a>
+<a href="https://github.com/NoorAli-180?tab=followers"><img src="https://img.shields.io/github/followers/NoorAli-180?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 NoorAli-180/NoorAli-180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Noor Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
+<br>
+
 - 👨‍🎓 Student of computer science in DHA Suffa University
 - 👀 I’m interested in working with web
 - 🌱 I’m currently learning web development

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-- 👋 Hi, I’m @NoorAli-180
 - 👨‍🎓 Student of computer science in DHA Suffa University
 - 👀 I’m interested in working with web
 - 🌱 I’m currently learning web development

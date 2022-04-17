@@ -6,9 +6,9 @@
 <br>
 
 - 👨‍🎓 Student of computer science in DHA Suffa University
-- 👀 I’m interested in working with web
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate with tech giants for their solutions
+- 👀 Interested in working with web
+- 🌱 Currently learning web development
+- 💞️ Looking to collaborate with tech giants for their solutions
 - 📫 How to reach me nooralib180@gmail.com
 
 <br>
@@ -27,6 +27,7 @@
   <a href="#" target="_blank" rel="noreferrer" title="git (version control)" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer" title="illustrator" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer" title="photoshop" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+  <a href="#" target="_blank" rel="noreferrer" title="photoshop" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
  <br>
  <br>

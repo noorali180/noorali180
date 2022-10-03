@@ -43,7 +43,7 @@
   
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NoorAli-180">
+    <img src="https://komarev.com/ghpvc/?username=noorali180">
 </a>
 <a href="https://github.com/noorali180?tab=followers"><img src="https://img.shields.io/github/followers/NoorAli-180?label=Followers&style=social" alt="GitHub Badge"></a>
 

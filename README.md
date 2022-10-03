@@ -31,6 +31,10 @@
   
  <br>
  <br>
+ 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorali180&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noorali180&show_icons=true)
 
 ## Connect with me:
 <p align="left">
